@@ -43,6 +43,7 @@ The dashboard enables users to explore AQI levels by city, pollutant type, and t
 | Excel           | Initial data exploration             |
 
 ### ✨ Features Included
+
 - 📊 Interactive Dashboard with slicers (City, Date, Pollutant)
 - 📈 Trend Analysis (monthly & seasonal AQI patterns)
 - 🧪 Pollutant-wise Breakdown (PM2.5, PM10, NO2, etc.)
