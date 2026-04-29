@@ -50,11 +50,15 @@ The dashboard enables users to explore AQI levels by city, pollutant type, and t
 - 📌 KPI Cards for quick insights
 - 📉 Time Intelligence Analysis using DAX
 
-### 📷 Snapshot of Dashboard
+### 📷 Snapshot of Desktop
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI%20Desktop.png)
 
+### 📷 Snapshot of Publishing the report to Service
+
 ![dashboard_snapo](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI%20Publish.png)
+
+### 📷 Snapshot of Dashboard
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI1.png)
 
