@@ -63,7 +63,7 @@ The dashboard enables users to explore AQI levels by city, pollutant type, and t
 
 ![dashboard_snapo](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI1.png)
 
-📄 [View Full Report](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI%20INDEX%20ANALYSIS.pdf)
+### Download Report📄 [View Full Report](https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/raw/main/AQI%20INDEX%20ANALYSIS.pdf)
 
 ### 📂 Project Workflow
 
