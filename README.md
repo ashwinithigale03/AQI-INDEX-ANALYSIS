@@ -1,7 +1,5 @@
 # 🌫️ AQI Index Analysis Dashboard
 
-### Dashboard Link : https://github.com/ashwinithigale03/AQI-INDEX-ANALYSIS/blob/main/AQI%20INDEX%20ANALYSIS.pbix
-
 ### 📌 Project Overview
 
 This project presents an interactive Air Quality Index (AQI) Analysis Dashboard built using Power BI to monitor and analyze air pollution trends across different locations and time periods.
